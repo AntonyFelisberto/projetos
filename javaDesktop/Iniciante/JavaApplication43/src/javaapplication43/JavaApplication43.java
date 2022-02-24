@@ -13,9 +13,9 @@ class ssd{
 public class JavaApplication43 {
     public static void main(String[] args) {
       Scanner ler=new Scanner(System.in);
-      ssd chunli=new ssd();
-      chunli.md=ler.nextInt();
-      System.out.printf("deu %d",chunli.md );
+      ssd chun=new ssd();
+      chun.md=ler.nextInt();
+      System.out.printf("deu %d",chun.md );
     }
     
 }
